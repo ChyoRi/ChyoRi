@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=Welcome!&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&&customColorList=0,2,3&text=Welcome!&animation=fadeIn&fontColor=ffffff)
 
 <!--
 **ChyoRi/ChyoRi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
