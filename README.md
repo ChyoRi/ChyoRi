@@ -1,6 +1,8 @@
+<div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&&customColorList=0,2,3&text=Welcome!&animation=fadeIn&fontColor=ffffff)
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&&customColorList=0,2,3&text=Welcome!&animation=fadeIn&fontColor=ffffff)
-
+  ### :memo: Tech Stack
+</div>
 <!--
 **ChyoRi/ChyoRi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
