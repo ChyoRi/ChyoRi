@@ -4,21 +4,20 @@
   
   ### :black_nib: Design Tool
   
-  ![Adobe%20Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31a8ff.svg?&style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-  ![figma](https://img.shields.io/badge/figma-f24e1e.svg?&style=for-the-badge&logo=figma&logoColor=white)
+  ![Adobe%20Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31a8ff.svg?&style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+  ![figma](https://img.shields.io/badge/figma-f24e1e.svg?&style=for-the-badge&logo=figma&logoColor=black)
   
   ### :pencil2: Tech Stack
-  
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=for-the-badge&logo=SASS&logoColor=white)
   ![javascript](https://img.shields.io/badge/javascript-f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=white)
   
-  ### 🛠 Editor
+  ### 🛠 IDE
   
   
-  ![Visual%20Studio%20Code](https://img.shields.io/badge/Visual%20Studio%20Code-007acc.svg?&style=for-the-badge&logo=Velog&logoColor=white)
+  ![Visual%20Studio%20Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   
   ### :book: Study
   
