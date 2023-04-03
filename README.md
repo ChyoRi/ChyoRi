@@ -12,6 +12,7 @@
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=for-the-badge&logo=SASS&logoColor=white)
+  ![jQuery](https://img.shields.io/badge/jQuery-0769ad.svg?&style=for-the-badge&logo=jQuery&logoColor=white)
   ![javascript](https://img.shields.io/badge/javascript-f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=white)
   
   ### 🛠 IDE
